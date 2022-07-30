@@ -1,0 +1,8 @@
+bin
+obj
+Binoculars.csproj.user
+.vs
+AssetBundles
+Logs
+Library
+Packages
